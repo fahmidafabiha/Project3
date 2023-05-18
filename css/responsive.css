@@ -1,0 +1,297 @@
+@media(max-width:1200px){
+
+    .one{
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+    .p3 {
+        font-family: arial;
+        line-height: 30px;
+        padding-top: 25px;
+    }
+}
+
+/* Desktop */
+
+@media(max-width:991px){
+
+    .col-left{
+        flex-basis: 100%;
+    }
+    .col-right{
+        flex-basis: 100%;
+    
+    }
+    
+    .one {
+        background-color: rgb(88, 21, 151);
+        padding-top: 35px;
+        padding-left: 15%;
+        padding-right: 15%;
+        height: 500px;
+        font-family: arial;
+        
+    }
+
+    h1 {
+        font-size: 50px;
+        text-align: center;
+    }
+
+    .p1{
+        font-size: 22px;
+        text-align: center;
+    }
+
+    .img1 {
+        padding-left: 170px;
+        width: 50%;
+        padding-top: 20px;
+    }
+
+    .two {
+        height: 400px;
+        padding-top: 40px;
+        padding-left: 40px;
+        padding-right: 40px;
+        margin-left: 70px;
+        margin-right: 70px;
+    }
+
+    .two-h1{
+        font-size: 28px;
+    }
+
+    .two-col-left{
+        flex-basis: 100%;
+    }
+
+    .two-col-right{
+        flex-basis: 100%;
+    }
+
+    .p2 {
+        padding-bottom: 20px;
+    }
+
+    .p3 {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    .three {
+        height: 700px;
+        padding-top: 50px;
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+
+    .form1 {
+        width: 40%;
+    }
+
+    .form2 {
+        width: 40%;
+    }
+
+    .form3 {
+        width: 40%;
+        margin-left: 0%;
+        margin-top: 0%;
+    }
+
+    .form4 {
+        width: 40%;
+        margin-top: 0%;
+    }
+}
+
+/* Laptop */
+
+
+
+@media(max-width:768px){
+
+    .col-left{
+        flex-basis: 100%;
+    }
+    .col-right{
+        flex-basis: 100%;
+    
+    }
+    
+    .one {
+        background-color: rgb(88, 21, 151);
+        padding-top: 35px;
+        padding-left: 5%;
+        padding-right: 5%;
+        height: 430px;
+        font-family: arial;
+    }
+
+    h1 {
+        font-size: 30px;
+    }
+
+    .img1 {
+        padding-left: 170px;
+        width: 50%;
+        padding-top: 20px;
+    }
+
+    .two {
+        height: 400px;
+        padding-top: 40px;
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    .two-h1{
+        font-size: 28px;
+    }
+
+    .two-col-left{
+        flex-basis: 100%;
+    }
+
+    .two-col-right{
+        flex-basis: 100%;
+    }
+
+    .p2 {
+        padding-bottom: 20px;
+    }
+
+    .p3 {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    .three {
+        height: 700px;
+        background-color: rgb(230, 238, 238);
+        padding-top: 50px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .form1 {
+        width: 40%;
+    }
+
+    .form2 {
+        width: 40%;
+    }
+
+    .form3 {
+        width: 40%;
+        margin-left: 0%;
+        margin-top: 0%;
+    }
+
+    .form4 {
+        width: 40%;
+        margin-top: 0%;
+    }
+}
+
+
+/* Tablet */
+
+
+
+@media(max-width:576px){
+
+    .col-left{
+        flex-basis: 100%;
+    }
+    .col-right{
+        flex-basis: 100%;
+    
+    }
+    
+    .one {
+        background-color: rgb(88, 21, 151);
+        padding-top: 35px;
+        padding-left: 5%;
+        padding-right: 5%;
+        height: 380px;
+        font-family: arial;
+    }
+
+    h1 {
+        font-size: 30px;
+    }
+
+    .p1 {
+        padding-top: 16px;
+        padding-bottom: 16px;
+        font-size: 18px;
+    }
+
+    .img1{
+        padding-top: 20px;
+        padding-left: 145px;
+    }
+
+    .two {
+        height: 600px;
+        padding-top: 40px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .two-h1{
+        font-size: 28px;
+    }
+
+    .two-col-left{
+        flex-basis: 100%;
+    }
+
+    .two-col-right{
+        flex-basis: 100%;
+    }
+
+    .p2 {
+        padding-bottom: 20px;
+    }
+
+    .p3 {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    .three {
+        padding-top: 70px;
+        padding-left: 10px;
+        padding-right: 10px;
+        height: 1100px;
+        
+    }
+
+    .form1 {
+        width: 100%;
+        height: 140px;
+    }
+
+    .form2 {
+        width: 100%;
+        height: 140px;
+        margin-left: 0%;
+    }
+
+    .form3 {
+        width: 100%;
+        height: 140px;
+        margin-left: 0%;
+    }
+
+    .form4 {
+        width: 100%;
+        height: 140px;
+        margin-left: 0%;
+    }
+}
+
+/* Mobile */
